@@ -11,7 +11,7 @@ function selectPackage(el){
 }
 
 function order(text){
-  const wa = "6285280073020";
+  const wa = "6281210214235";
   window.open(
     `https://wa.me/${wa}?text=${encodeURIComponent(text)}`,
     "_blank"
